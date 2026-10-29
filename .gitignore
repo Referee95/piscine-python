@@ -1,0 +1,13 @@
+# Virtual environment
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# flake8 cache
+.flake8_cache/
+
+# Environment variables
+.env
